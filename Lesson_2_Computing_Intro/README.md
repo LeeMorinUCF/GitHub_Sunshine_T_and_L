@@ -63,7 +63,7 @@ These commands are listed in a program in which each line has up to four paramet
 
 Here are some examples that follow from the discussion of the [RodRego](http://sites.tufts.edu/rodrego/) program on the website of the philosopher Dan Dennet at Tufts University. 
 RodRego is a program for running programs in a language called ```RAP```, which stands for *Register Assembly Programming*. 
-A version that will run in your browser is available [here](http://proto.atech.tufts.edu/RodRego/).
+A version that will run in your browser is available [here](https://rodrego.it.tufts.edu/).
 The following examples are found in Dan Dennet's book *Intuition Pumps and Other Tools for Thinking*. 
 
 ### Program 1: ```ADD[1,2]```

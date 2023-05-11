@@ -1,12 +1,20 @@
 # Exercises
 
 For these exercise, you will have to open a browser window and 
-browse to the rodrego Website.
+browse to the 
+[RodRego](http://sites.tufts.edu/rodrego/) Website, 
+which has a 
+version that will run in your browser, available 
+[here](https://rodrego.it.tufts.edu/).
 
 For each of the exercises, copy the code in the indicated file, 
 paste it in the code window in the Rodrego interface. 
 Then initialize the values of the relevant registers and press "Play"
 to see the program run. 
+
+## Adding two numbers
+
+Try the program ```ADD_1_2.txt```
 
 ## Moving values between registers
 
