@@ -18,14 +18,14 @@ Try the program ```ADD_1_2.txt```
 
 ## Moving values between registers
 
-Try the program ```MOVE_1_2.txt```
+Try the program ```MOVE_4_5.txt```
 
 ## Copying values between registers
 
-Try the program ```COPY_1_2.txt```
+Try the program ```COPY_1_3.txt```
 
 
-## Adding two numbers
+## Adding two numbers (nondestructive)
 
 Try the program ```ADD_1_2_3.txt```
 
