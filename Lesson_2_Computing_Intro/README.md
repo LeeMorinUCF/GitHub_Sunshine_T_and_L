@@ -122,7 +122,7 @@ The flow graph is shown here:
 
 Notice the first step is to remove the contents of register 5 so that the value does not get counted with the value moved from register 4.
 
-### Program 4: ```COPY[1,3]```
+### Program 3: ```COPY[1,3]```
 
 This program copies the value in register 1 and records it in register 3. 
 
