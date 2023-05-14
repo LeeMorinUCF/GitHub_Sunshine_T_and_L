@@ -18,7 +18,7 @@ to see the program run.
 ## Adding two numbers (nondestructive)
 
 Try the program ```ADD_1_2_3.txt```
-to test your skill at running register assembly programs.
+to test your skill at *running* register assembly programs.
 The code is available in the script ```ADD_1_2_3.txt``` above
 and is copied here for your convenience.
 
@@ -44,6 +44,6 @@ and is copied here for your convenience.
 This is the assignment question.
 Can you *write* a program that correctly subtracts
 the value in register 2 from the value in register 1
-and places the difference in register 4.
+and places the difference in register 4?
 Leave register 3 blank for now. 
 
